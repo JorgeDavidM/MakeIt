@@ -3,8 +3,5 @@ Mundo
 como estas
 
 Prueba rama-1
-<<<<<<< HEAD
-un cambio desde master
-=======
 otro cambio rama-1
->>>>>>> rama-1
+Te amo maria jose
