@@ -6,8 +6,6 @@ Prueba rama-1
 otro cambio rama-1
 
 
-<<<<<<< HEAD
 Cambio desde master
-=======
+
 cambio rama-1
->>>>>>> rama-1
