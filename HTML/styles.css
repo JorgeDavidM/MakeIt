@@ -14,3 +14,17 @@ h1{
 table, td, tr, th{
   border: 1px solid #333;
 }
+.box{
+  padding: 10px 20px 30px 40px;
+
+  border: 2px solid black;
+  border-top: 2px dashed blue;
+  border-right: 2px dotted red;
+  border-bottom: 2px double brown;
+  border-left: 2px solid green;
+
+  margin: 10px;
+
+  width: 100px;
+  height: 100px;
+}
