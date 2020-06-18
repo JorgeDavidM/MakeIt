@@ -28,3 +28,25 @@ table, td, tr, th{
   width: 100px;
   height: 100px;
 }
+.background{
+  width: 800px;
+  height: 400px;
+  background-color: cyan;
+  background-image:  url('https://www.kellsolutions.com/wp-content/uploads/2019/07/1564233245-678x381.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background: cyan url('https://www.kellsolutions.com/wp-content/uploads/2019/07/1564233245-678x381.jpg') no-repeat center/cover fixed;
+}
+
+.container{
+  width: 400px;
+  height: 400px;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: burlywood;
+}
